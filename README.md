@@ -6,4 +6,5 @@
 yt_url.exe -url <video url>
 ```
 
-![image](https://user-images.githubusercontent.com/74480667/112705953-5c782f00-8ee4-11eb-8789-21c6e37a6b6f.png)
+![image](https://user-images.githubusercontent.com/74480667/113472144-f0756800-949b-11eb-85c6-ff2d3d5c3188.png)
+
